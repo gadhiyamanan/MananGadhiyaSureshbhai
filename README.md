@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MananGadhiyaSureshbhai
 - 🎓 CHARUSAT UNIVERSITY
-- 📫 https://manangadhiya.ml/
 
 <!---
 MananGadhiyaSureshbhai/MananGadhiyaSureshbhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
