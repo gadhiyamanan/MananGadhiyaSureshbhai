@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MananGadhiyaSureshbhai
+- 👋 Hi, I’m Manan
 - 🎓 CHARUSAT UNIVERSITY
 
 <!---
